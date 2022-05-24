@@ -1,4 +1,4 @@
-<h1> Shell, permissions <h1/>
+<h1> Shell, permissions </h1>
 
 
 Permissions
@@ -30,7 +30,7 @@ General
     A README.md file, at the root of the folder of the project, describing what each script is doing
     You are not allowed to use backticks, &&, || or ;
     All your files must be executable
-<h2> TASKS <h2/>
+<h2> TASKS </h2>
     0. My name is Betty 
     Create a script that switches the current user to the user betty.
 
