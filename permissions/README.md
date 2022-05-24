@@ -32,10 +32,11 @@ General
     All your files must be executable
 <h2> TASKS </h2>
    
-   <strong> 0. My name is Betty </strong>
+    <strong> 0. My name is Betty </strong>
     Create a script that switches the current user to the user betty.
-    You should use exactly 8 characters for your command (+1 character for the new line)
-    You can assume that the user betty will exist when we will run your script
+     <li> You should use exactly 8 characters for your command (+1 character for the new line) </li>
+      <li> You can assume that the user betty will exist when we will run your script </li>
+
     <strong> 1. Who am I </strong> 
     Write a script that prints the effective username of the current user.
     <strong> 2. Groups</strong> 
