@@ -33,14 +33,14 @@ General
 <h2> TASKS </h2>
    
    <strong> 0. My name is Betty </strong>
-    Create a script that switches the current user to the user betty.
+    <p> Create a script that switches the current user to the user betty. </p>
      <li>You should use exactly 8 characters for your command (+1 character for the new line)</li>
      <li>You can assume that the user betty will exist when we will run your script</li>
 
    <strong> 1. Who am I </strong> 
-    Write a script that prints the effective username of the current user.
+    <p>Write a script that prints the effective username of the current user.</p>
     <strong> 2. Groups</strong> 
-    Write a script that prints all the groups the current user is part of.
+   <p> Write a script that prints all the groups the current user is part of.</p>
    <strong>  3. New Owner</strong> 
     Write a script that changes the owner of the file hello to the user betty.
    <strong>  4. Empty!</strong> 
