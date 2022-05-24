@@ -59,19 +59,17 @@ General
     Owner: no permission at all
     Group: no permission at all
     Other users: all the permissions
-
-The file hello will be in the working directory You are not allowed to use commas for this script
+    The file hello will be in the working directory You are not allowed to use commas for this script
     9. John Doe
     Write a script that sets the mode of the file hello to this:
-
--rwxr-x-wx 1 julien julien 23 Sep 20 14:25 hello
+    -rwxr-x-wx 1 julien julien 23 Sep 20 14:25 hello
     10. Look in the mirror
     Write a script that sets the mode of the file hello the same as olleh’s mode.
 
     The file hello will be in the working directory
     The file olleh will be in the working directory
     11. Directories
-    Create a script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users. Regular files should not be changed.
+    Create a script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users.     Regular files should not be changed.
     12. More Directories
     Create a script that creates a directory called my_dir with permissions 751 in the working directory.
     13. Change Group
