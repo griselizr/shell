@@ -31,60 +31,57 @@ General
     You are not allowed to use backticks, &&, || or ;
     All your files must be executable
 <h2> TASKS </h2>
-    0. My name is Betty 
+   
+   <strong> 0. My name is Betty </strong>
     Create a script that switches the current user to the user betty.
-
     You should use exactly 8 characters for your command (+1 character for the new line)
     You can assume that the user betty will exist when we will run your script
-    1. Who am I 
+    <strong> 1. Who am I </strong> 
     Write a script that prints the effective username of the current user.
-    2. Groups
+    <strong> 2. Groups</strong> 
     Write a script that prints all the groups the current user is part of.
-    3. New Owner
+   <strong>  3. New Owner</strong> 
     Write a script that changes the owner of the file hello to the user betty.
-    4. Empty!
+   <strong>  4. Empty!</strong> 
     Write a script that creates an empty file called hello.
-    5. Execute
+   <strong>  5. Execute </strong> 
     Write a script that adds execute permission to the owner of the file hello.
-    6. Multiples Permissions
+    <strong> 6. Multiples Permissions</strong> 
     Write a script that adds execute permission to the owner and the group owner, and read permission to other users, to the file hello.
     The file hello will be in the working directory
-    7. Everybody!
+    <strong> 7. Everybody!</strong> 
     Write a script that adds execution permission to the owner, the group owner and the other users, to the file hello
-    The file hello will be in the working directory
-    You are not allowed to use commas for this script
-    8. James Bond
+    <li>The file hello will be in the working directory </li>
+    <li>You are not allowed to use commas for this script</li>
+    <strong> 8. James Bond</strong> 
     Write a script that sets the permission to the file hello as follows:
 
     Owner: no permission at all
     Group: no permission at all
-    Other users: all the permissions
-    The file hello will be in the working directory You are not allowed to use commas for this script
-    9. John Doe
+   <li> Other users: all the permissions </li>
+    <li>The file hello will be in the working directory You are not allowed to use commas for this script</li>
+  <strong>   9. John Doe</strong> 
     Write a script that sets the mode of the file hello to this:
     -rwxr-x-wx 1 julien julien 23 Sep 20 14:25 hello
-    10. Look in the mirror
+   <strong>  10. Look in the mirror </strong> 
     Write a script that sets the mode of the file hello the same as olleh’s mode.
-
-    The file hello will be in the working directory
-    The file olleh will be in the working directory
-    11. Directories
+<li>The file hello will be in the working directory </li>
+<li>The file olleh will be in the working directory </li>
+   <strong>  11. Directories</strong> 
     Create a script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users.     Regular files should not be changed.
-    12. More Directories
+   <strong>  12. More Directories</strong> 
     Create a script that creates a directory called my_dir with permissions 751 in the working directory.
-    13. Change Group
+   <strong>  13. Change Group </strong> 
     Write a script that changes the group owner to school for the file hello
-
-    The file hello will be in the working directory
-    14. Owner & Group
+    <li>The file hello will be in the working directory </li>
+   <strong>  14. Owner & Group </strong> 
     Write a script that changes the owner to vincent and the group owner to staff for all the files and directories in the working directory.
-    15. Symbolics links
+   <strong>  15. Symbolics links </strong> 
     Write a script that changes the owner and the group owner of _hello to vincent and staff respectively.
 
-    The file _hello is in the working directory
-    The file _hello is a symbolic link
-    16. If only
+    <li>The file _hello is in the working directory </li>
+    <li>The file _hello is a symbolic link </li>
+    <strong> 16. If only </strong> 
     Write a script that changes the owner of the file hello to vincent only if it is owned by the user guillaume.
-
-    The file hello will be in the working directory
+   <li> The file hello will be in the working directory </li>
 
