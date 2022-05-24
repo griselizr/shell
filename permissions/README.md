@@ -42,47 +42,46 @@ General
     <strong> 2. Groups</strong> 
    <p> Write a script that prints all the groups the current user is part of.</p>
    <strong>  3. New Owner</strong> 
-    Write a script that changes the owner of the file hello to the user betty.
+   <p> Write a script that changes the owner of the file hello to the user betty.</p>
    <strong>  4. Empty!</strong> 
-    Write a script that creates an empty file called hello.
+   <p> Write a script that creates an empty file called hello.</p>
    <strong>  5. Execute </strong> 
-    Write a script that adds execute permission to the owner of the file hello.
+  <p> Write a script that adds execute permission to the owner of the file hello.</p>
     <strong> 6. Multiples Permissions</strong> 
-    Write a script that adds execute permission to the owner and the group owner, and read permission to other users, to the file hello.
-    The file hello will be in the working directory
+   <p> Write a script that adds execute permission to the owner and the group owner, and read permission to other users, to the file hello.
+    The file hello will be in the working directory </p>
     <strong> 7. Everybody!</strong> 
-    Write a script that adds execution permission to the owner, the group owner and the other users, to the file hello
+    <p>Write a script that adds execution permission to the owner, the group owner and the other users, to the file hello. </p>
     <li>The file hello will be in the working directory </li>
     <li>You are not allowed to use commas for this script</li>
     <strong> 8. James Bond</strong> 
-    Write a script that sets the permission to the file hello as follows:
-
+   <p> Write a script that sets the permission to the file hello as follows:
    Owner: no permission at all
-    Group: no permission at all
+    Group: no permission at all </p>
    <li> Other users: all the permissions </li>
     <li>The file hello will be in the working directory You are not allowed to use commas for this script</li>
   <strong>   9. John Doe</strong> 
-    Write a script that sets the mode of the file hello to this:
-    -rwxr-x-wx 1 julien julien 23 Sep 20 14:25 hello
+   <p> Write a script that sets the mode of the file hello to this:
+    -rwxr-x-wx 1 julien julien 23 Sep 20 14:25 hello </p>
    <strong>  10. Look in the mirror </strong> 
-    Write a script that sets the mode of the file hello the same as olleh’s mode.
+   <p> Write a script that sets the mode of the file hello the same as olleh’s mode.</p>
 <li>The file hello will be in the working directory </li>
 <li>The file olleh will be in the working directory </li>
    <strong>  11. Directories</strong> 
-    Create a script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users.     Regular files should not be changed.
+   <p> Create a script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users.      Regular files should not be changed.</p>
    <strong>  12. More Directories</strong> 
-    Create a script that creates a directory called my_dir with permissions 751 in the working directory.
+   <p> Create a script that creates a directory called my_dir with permissions 751 in the working directory.</p>
    <strong>  13. Change Group </strong> 
-    Write a script that changes the group owner to school for the file hello
+    <p>Write a script that changes the group owner to school for the file hello </p>
     <li>The file hello will be in the working directory </li>
    <strong>  14. Owner & Group </strong> 
-    Write a script that changes the owner to vincent and the group owner to staff for all the files and directories in the working directory.
+    <p>Write a script that changes the owner to vincent and the group owner to staff for all the files and directories in the working directory.</p>
    <strong>  15. Symbolics links </strong> 
-    Write a script that changes the owner and the group owner of _hello to vincent and staff respectively.
+    <p>Write a script that changes the owner and the group owner of _hello to vincent and staff respectively.</p>
 
    <li>The file _hello is in the working directory </li>
     <li>The file _hello is a symbolic link </li>
     <strong> 16. If only </strong> 
-    Write a script that changes the owner of the file hello to vincent only if it is owned by the user guillaume.
+   <p> Write a script that changes the owner of the file hello to vincent only if it is owned by the user guillaume.</p>
    <li> The file hello will be in the working directory </li>
 
