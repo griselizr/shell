@@ -1,8 +1,7 @@
-<h1> Shell, permissions </h1>  
-<h1> :shell: :page_with_curl:</h1>
+<h1> 📃 Shell, permissions:shell: </h1>  
+
 
 Permissions
-
     What do the commands chmod, sudo, su, chown, chgrp do
     Linux file permissions
     How to represent each of the three sets of permissions (owner, group, and other) as a single digit
