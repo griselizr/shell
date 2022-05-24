@@ -1,5 +1,5 @@
-<h1> Shell, permissions </h1>  :shell: :page_with_curl:
-
+<h1> Shell, permissions </h1>  
+<h1> :shell: :page_with_curl:</h1>
 
 Permissions
 
