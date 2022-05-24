@@ -32,12 +32,12 @@ General
     All your files must be executable
 <h2> TASKS </h2>
    
-    <strong> 0. My name is Betty </strong>
+   <strong> 0. My name is Betty </strong>
     Create a script that switches the current user to the user betty.
      <li>You should use exactly 8 characters for your command (+1 character for the new line)</li>
      <li>You can assume that the user betty will exist when we will run your script</li>
 
-    <strong> 1. Who am I </strong> 
+   <strong> 1. Who am I </strong> 
     Write a script that prints the effective username of the current user.
     <strong> 2. Groups</strong> 
     Write a script that prints all the groups the current user is part of.
@@ -57,7 +57,7 @@ General
     <strong> 8. James Bond</strong> 
     Write a script that sets the permission to the file hello as follows:
 
-    Owner: no permission at all
+   Owner: no permission at all
     Group: no permission at all
    <li> Other users: all the permissions </li>
     <li>The file hello will be in the working directory You are not allowed to use commas for this script</li>
@@ -80,7 +80,7 @@ General
    <strong>  15. Symbolics links </strong> 
     Write a script that changes the owner and the group owner of _hello to vincent and staff respectively.
 
-    <li>The file _hello is in the working directory </li>
+   <li>The file _hello is in the working directory </li>
     <li>The file _hello is a symbolic link </li>
     <strong> 16. If only </strong> 
     Write a script that changes the owner of the file hello to vincent only if it is owned by the user guillaume.
