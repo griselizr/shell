@@ -1,4 +1,4 @@
-<h1> 🐚Shell, basics </h1>
+<h1> 🐚Shell, basics ◾ </h1>
 
 Learning Objectives
 
