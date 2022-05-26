@@ -1,0 +1,2 @@
+#!/bin/bash
+ls -lt | sort -n 10 | wc -1
