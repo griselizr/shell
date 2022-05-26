@@ -1,0 +1,2 @@
+#!/bin/bash
+sort --random-source=aaa --random-source=bbb --random-source=.b --random-source=.a --random-source=jay --random-source=Rona "*.gif"
