@@ -4,4 +4,5 @@ a=10
 until [ $a -lt 1 ]
 do
     echo "Best School"
-    let a-=1; done
+    (( a -- ))
+done
