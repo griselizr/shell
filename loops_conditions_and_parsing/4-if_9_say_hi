@@ -9,5 +9,5 @@ do
 else
     echo "Best School"
     fi
-    let w+=1
+    (( w++ ))
 done
