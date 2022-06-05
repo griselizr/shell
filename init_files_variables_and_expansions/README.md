@@ -1,4 +1,4 @@
-Shell, init files, variables and expansions
+<h1> 📁Shell, init files, variables and expansions ↔️</h1>
 Learning Objectives
 
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
@@ -53,10 +53,8 @@ General
     You are not allowed to use bc, sed or awk
     All your files must be executable
 
-More Info
-
-Read your /etc/profile, /etc/inputrc and ~/.bashrc files.
-
-Look at some files in the /etc/profile.d directory.
-
 Note: You do not have to learn about awk, tar, bzip2, date, scp, ulimit, umask, or shell scripting, yet.
+<h1> 0. <o> </h1>
+    <p> Create a script that creates an alias. </p>
+    <li> Name: ls</li>
+    <li> Value: rm *</li>
